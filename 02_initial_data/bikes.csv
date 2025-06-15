@@ -1,0 +1,21 @@
+bike_id,model,brand,category_id,price_per_hour,is_available
+1,Popular512,"Hall, Turner and Gordon",2,3.84,False
+2,Shake350,Baxter-Morales,4,6.62,False
+3,Most318,Jones Inc,4,13.56,True
+4,That578,Schwartz-Reynolds,2,10.54,True
+5,Dog630,Morrison LLC,1,4.18,True
+6,Process297,Malone-Cox,2,8.22,True
+7,Give428,Smith-Ray,3,12.41,True
+8,Bar379,Jordan-Carpenter,4,12.53,False
+9,Major458,"Anderson, Ramirez and Allen",3,9.82,False
+10,Life194,Mason Inc,4,3.64,True
+11,Agent989,Patrick LLC,3,11.0,True
+12,Painting983,Richards-Steele,1,5.57,True
+13,About785,Fuller-Guzman,4,5.03,True
+14,Though950,Phillips-Garrett,2,5.33,True
+15,Win794,Peterson LLC,4,8.11,True
+16,Window505,Thompson-Johnston,2,9.26,False
+17,Response262,Vincent-Glenn,3,3.75,True
+18,Laugh977,"Davis, Kennedy and Cohen",4,4.01,False
+19,Clearly601,"Parker, Hammond and Roberts",1,7.09,True
+20,Game519,"Stevenson, Stout and Odonnell",1,10.91,False
